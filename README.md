@@ -163,7 +163,7 @@ Os arquivos deste diretório são nomeados por letras, como `a.cpp`, `b.cpp`, `c
 
 ---
 
-## 🎯 Objetivos do Projeto
+## 🎯 Objetivos da Disciplina
 - Consolidar conhecimentos em Algoritmos e Estruturas de Dados.
 - Aprimorar o raciocínio lógico focado em resolução rápida de problemas.
 - Estudar tópicos frequentes em maratonas de programação (ICPC, Maratona SBC, etc.), tais como Grafos, Programação Dinâmica, Algoritmos Gulosos, Matemática e Geometria Computacional.
